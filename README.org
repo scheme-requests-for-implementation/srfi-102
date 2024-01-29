@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2009 David Van Horn
+#
+# SPDX-License-Identifier: MIT
+
 * SRFI 102: Procedure Arity Inspection
 
 ** by David Van Horn
